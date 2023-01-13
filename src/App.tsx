@@ -74,7 +74,7 @@ const App = () => {
           style={{ color: "white", padding: "2% 0%" }}
           className="d-flex justify-content-evenly"
         >
-          relogio pomodoro
+          relógio pomodoro
         </Row>
 
         <SwipTabView
