@@ -147,7 +147,7 @@ const App = () => {
               style={{ cursor: "pointer" }}
               size={24}
               color="#737997"
-              onClick={() => alert(":) estamos em desenvolvimento.")}
+              onClick={() => alert(":) estamos em desenvolvimento. Inclusive ainda não estamos responsivos.")}
             />
           </Col>
         </Row>
